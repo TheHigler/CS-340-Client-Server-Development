@@ -2,12 +2,12 @@
 
 How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 
-
+  My first line of defense with creating maintainable, readable, and adaptable code is the use of informative comments. Not only does this help others understand what your variables, classes, and functions are doing but, allows you to stay on track and hit all of the requirements of the project. In this class, our CRUD program was easily interchangeable with any applicable assignments. Even more so, the classes and functions would be easily reusable with a different database mostly by changing the username, password, port, host, DB, and collection information. It would allow you to create, read, update, and delete within a whole different database. 
 
 How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
 
-
-
+  When approaching a problem as a computer scientist, I try to dissect the requirements into bite-size pieces, allowing me to tackle one issue at a time as well as start a fresh coding environment with comments that will act as my blueprint to ensure I tackle all of the applicable requirements. This way, I only have to look back at the requirements for maybe a better understanding of something rather than "What do I do next?". I wouldn't say that my approach differed on these assignments as opposed to other courses' assignments. So far, my approach seems to be working for me. I'll adjust it moving forward as I see fit. One of the approaches being test cases. Using test cases allows me to see where my code may not be operating properly. 
+  
 What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 
-
+  Computer scientists create something that users find enjoyable, for instance, social media, and generate solutions that create a more productive environment. My work uses a database that gets interpreted by an ERP system that we all use to work productively. One of the higher-ups at my work currently uses Excel manipulation and functions to generate a dashboard he uses to show numerous things such as current revenue for the month or if we're ahead or behind in production. Something like this could be better done by utilizing exactly what we did here in this class to pull information directly from the database and generate the same dashboard he's creating on his own. This dashboard could also be updated automatically instead of being a manual event. This kind of implementation would allow anyone to access it and be displayed anywhere within the company or, display different information to different departments within the company, creating a more productive and knowledgeable employee base. 
